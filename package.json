@@ -1,5 +1,6 @@
-{
-  "name": "thirdweb-app",
+{  
+  "name": "pscu-rpc",
+  "description": "PSCU RPC",
   "version": "0.1.0",
   "private": true,
   "scripts": {
