@@ -104,7 +104,8 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-    
+<meta name="keywords" content="Refined Pulsar Corp., RPC, PSCU, Pulsar, UFCC, UFCC, UFC, staking, ERC20, avax, avalanche, rts, video game" />
+<meta name="description" content="Refined Pulsar Corp. tokens staking app" />
       <main className={styles.main}>
     <div className={styles.connect}>
     <ConnectWallet />
