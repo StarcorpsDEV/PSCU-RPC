@@ -102,12 +102,12 @@ export default function Home() {
     refetchStakingInfoUSDC();
   };
 
-  return (
-    <div className={styles.container}>
-<meta name="keywords" content="Refined Pulsar Corp., RPC, PSCU, Pulsar, UFCC, UFCC, UFC, staking, ERC20, avax, avalanche, rts, video game" />
+return (
+<div className={styles.container}>
 <meta name="description" content="Refined Pulsar Corp. tokens staking app" />
-      <main className={styles.main}>
-    <div className={styles.connect}>
+<meta name="keywords" content="Refined Pulsar Corp., RPC, PSCU, Pulsar, UFCC, UFCPLSR, UFC, staking, ERC20, avax, avalanche, rts, video game" />
+<main className={styles.main}>
+  <div className={styles.connect}>
     <ConnectWallet />
   </div>
         <h1 className={styles.title}>Refined Pulsar Corp.</h1>
